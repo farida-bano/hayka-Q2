@@ -1,0 +1,10 @@
+/* styles/globals.css */
+
+/* Tailwind Base */
+@tailwind base;
+
+/* Tailwind Components */
+@tailwind components;
+
+/* Tailwind Utilities */
+@tailwind utilities;
